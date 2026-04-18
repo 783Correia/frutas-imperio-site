@@ -7,7 +7,7 @@ export default function Sobre() {
   return (
     <section id="sobre" className="py-24 bg-white">
       <div className="container mx-auto max-w-7xl px-6">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
           {/* Texto */}
           <motion.div
             initial={{ opacity: 0, x: -30 }}
